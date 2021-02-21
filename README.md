@@ -1,5 +1,5 @@
 # Fine_Dust_Inforamtion_App
-Fine_Dust_Inforamtion_App
+Fine Dust Inforamtion App
 
 
 <p align="center">
