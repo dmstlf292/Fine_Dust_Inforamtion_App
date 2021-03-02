@@ -1,5 +1,5 @@
-# Fine_Dust_Inforamtion_App
-Fine Dust Inforamtion App
+# Fine Dust Inforamtion App
+# 기능소개
 * 자동 현재위치에 대하여 미세먼지 정보 알려주기
 * 추가하고 싶은 위치 생성하기
 * 전체지역 삭제 혹은 지우고 싶은 지역 삭제하기
