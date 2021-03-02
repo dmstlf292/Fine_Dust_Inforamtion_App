@@ -6,6 +6,11 @@
 * 공공데이터 미세먼지 api 사용으로 실시간 반영 
 * Retrofit2, Realm DB활용
 
+# 부족한점 및 느낀점
+* 느낀점 : 기존 웹 프로젝트에서 api적용하는 기법과 어플리케이션에서 retrofit2 라이브러리를 활용하여 api 적용하는 방식이 달라서 힘들었다. 
+(아직까지 안드로이드 ui에 대한 main thread 이해도와 fragment를 활용 및 관계이해도가 중요하다는 것을 느낌)
+* 부족한점 : 위치기반을 적용하는 코드를 작성하였으나, 위치가 부산이라고 뜨지 않고 자꾸 대구라고 뜬다. 이부분을 바로잡으려고 했으나 결국 해결하지 못하였다. 
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73155839/108627566-a7dc8f00-7499-11eb-93e8-d75cd4c348db.png" width="20%" height="30%">
 <img src="https://user-images.githubusercontent.com/73155839/108627567-a7dc8f00-7499-11eb-96b0-f5c162837152.png" width="20%" height="30%">
